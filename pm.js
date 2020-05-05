@@ -4,4 +4,4 @@ module.exports = {
         "script": "index.js",
         "watch" : false
     }]
-}
+};
