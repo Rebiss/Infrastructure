@@ -7,7 +7,7 @@
 
 ```sh
 .
-│   .editorconfig                       # Editor xonfig file
+│   .editorconfig                       # Editor config file
 │   .env.example                        # Environment variables
 │   .eslintrc.js                        # EsLint config file
 │   .gitignore                          # Git ignore file
