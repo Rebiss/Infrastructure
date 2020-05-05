@@ -1,6 +1,6 @@
 # Infrastructure
 
 ```sh
-$Express.js_(default)_ or Koa.js            #Web application framework
-$yarn_(default)_ or npm                     #Package Manager
+$Express.js(def)or Koa.js            #Web application framework
+$yarn(def) or npm                     #Package Manager
 ```
